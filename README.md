@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cyrus Asgari, a sophomore at Harvard University, studying Applied Math and CS, with a minor in statistics.
+- 👋 Hi, I’m Cyrus Asgari, a sophomore at Harvard University, studying Applied Math and CS.
 - 👀 I’m interested in software development, data science, and machine learning.
 - 🌱 I’m currently learning discrete math, machine learning, and applied linear algebra
 - 💞️ I’m looking to collaborate on any projects to expand my coding base.
